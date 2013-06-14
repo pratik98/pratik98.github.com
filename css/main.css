@@ -14,14 +14,10 @@ html, body { height: 100%; }
 
 body {
   background-color: rgb(232, 236, 238);
- /* font: 13.34px Helvetica, Arial, sans-serif;
+ font: 16px Helvetica, Arial, sans-serif;
   font-size: small;
-  text-align: center;*/
-  text-shadow: 0px 2px 0px rgb(239, 239, 239);
-font-size: 16px;
-color: rgb(65, 89, 107);
-font-family: 'Ubuntu', sans-serif;
-}
+  text-align: center;
+  }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
@@ -29,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a         { color: #00a; text-decoration:none;}
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
@@ -55,8 +51,16 @@ ul.posts li {
 ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-size: 150%;
 }
+
+ul.posts a{
+  color: #7B95D1;
+  
+  font-size: 150%;
+}
+
+
 
 /*****************************************************************************/
 /*
@@ -72,24 +76,37 @@ ul.posts span {
   line-height: 1.5em;
 }
 
+.site .header {
+border-bottom: 2px solid #CCCACB;
+  margin-bottom: 3em;
+}
 .site .header a {
   font-weight: bold;
   text-decoration: none;
+
 }
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 3em;
   text-align:center;
+  
 }
 
 .site .header h1.title a {
-  color: #a00;
-   font-size: 200%;
+color:#000;
+font-family: 'Open Sans',serif;
+font-weight: 300;
+font-size: 4.2em;
+letter-spacing: 0px;
+text-align: center;
+cursor: default;
+text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.75);
+margin-bottom: 8px;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  color: grey;
 }
 
 .site .header a.extra {
@@ -106,15 +123,15 @@ ul.posts span {
 }
 
 .site .footer {
-  font-size: 80%;
+  font-size: 120%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 2px solid #CCCACB;
   margin-top: 2em;
   overflow: hidden;
 }
 
 .site .footer .contact {
-  float: left;
+  text-align:center;
   margin-right: 3em;
 }
 
