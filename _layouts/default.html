@@ -11,7 +11,8 @@
 <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css'>
 
     <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Mate+SC|Oxygen"></link>
-	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300"></link><link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Balthazar"></link>
+	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300"></link>
+	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Balthazar"></link>
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
@@ -22,9 +23,11 @@
           <div class="site">
             <div class="header">
               <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/about.html">About.</a>
-			  <a class="extra" href="/stuff.html">Stuff.</a>
-			  <a class="extra" href="/work.html">Work.</a>
+			  <div class="nav">
+              <a class="extra" href="/about.html"><span class="icon-user">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>About</a>
+			     <a class="extra" href="/stuff.html"><span class="icon-stuff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Stuff</a>
+			     <a class="extra" href="/work.html"><span class="icon-work">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Work</a>
+			  </div>
             </div>
 
                 {{ content }}
