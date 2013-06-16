@@ -45,7 +45,7 @@ ul.posts {
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  /*line-height: 1.75em;*/
 }
 
 ul.posts span {
@@ -71,9 +71,9 @@ ul.posts a{
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+  width: 45em;
+  margin: 0em auto 2em;
+  /*line-height: 1.5em;*/
 }
 
 .site .header {
@@ -88,9 +88,8 @@ border-bottom: 2px solid #CCCACB;
 
 .site .header h1.title {
   display: block;
-  margin-bottom: 3em;
-  text-align:center;
-  
+  margin-left: 3em;
+  text-align:center;  
 }
 
 .site .header h1.title a {
@@ -219,4 +218,32 @@ font-family:'Ubuntu',serif;
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.image-circle {
+	margin-bottom: 2em;
+	width: 150px;
+	height: 150px;
+	border-radius:70px;
+	-webkit-border-radius: 70px;
+	-moz-border-radius: 70px;
+	background: url("../images/DP.jpg") no-repeat;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	
+	}
+	
+	
+.cols
+{
+	float:left;
+	/*margin-bottom:2em;*/
+}
+
+.row
+{
+	width:inherit;
+	margin-bottom:0.7em;
+	
 }
