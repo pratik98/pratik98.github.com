@@ -227,9 +227,9 @@ word-spacing:2px;
 	margin-bottom: 2em;
 	width: 150px;
 	height: 150px;
-	border-radius:70px;
-	-webkit-border-radius: 70px;
-	-moz-border-radius: 70px;
+	border-radius:20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
 	background: url("../images/DP.jpg") no-repeat;
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -257,7 +257,7 @@ hr {
 }
 
 /*
- * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+ * Remove the gap between images and the bottom of their containers: 
  */
 
 img {

@@ -5,14 +5,14 @@ title: "Work - Pratik Agrawal"
 
 I made my first website during 3rd year of my diploma engineering. it was plain **XHTML + CSS** website. since then i have enjoyed working on server-side web apps using **PHP, Ajax**; couple of mobile apps for **Android** and few mobile sites using **Jquery Mobile**. 
 
-I have been fortunate to be a part of technical team of my college's annual techfest [FootPrints.](http://www.msu-footprints.org) I worked on Event Registration system, Android app and mobile website for FootPrints.
+I have been fortunate to be a part of technical team of my college's annual techfest [FootPrints.](http://www.msu-footprints.org) I have worked on Event Registration system, Android app and mobile website for FootPrints.
 
 Presently, i m part of [ Training and Placement cell](http://ftemsu-placements.org/) of my college and maintaining placement portal.
  
 Here are some more details about the projects that I have worked on -
 
 <hr>
-<br />
+
 # [FootPrints X3 - Registration Module](http://www.msu-footprints.org) #
 I developed module for registering online for the different events of FootPrints. it supports automated generation of fee receipt in pdf format based on event selected by the participant. more than 10,000 participants registered for FootPrints X3 using this module. 
 
@@ -24,7 +24,7 @@ I extensively took care to prevent SQL injections and XSS attacks.
 PHP, Wordpress, Ajax, MySQL, Twitter Bootstrap
 
 <hr>
-<br />
+
 # FootPrints Registration System  #
 This is a backend of the FootPrints. i designed this system from scratch using beautiful twitter bootstrap. i revised the system with PHP Data Objects and OOP features of PHP. 
 
@@ -42,12 +42,14 @@ This is a backend of the FootPrints. i designed this system from scratch using b
 this system successfully handled database of over 10,000 students.
 
 ![FootPrints X3](images/work/login_logout.png)
+<br />
+<br />
 ![FootPrints X3](images/work/FRS.png)
 # Technologies used#
 PHP (OOP), Ajax, MySQL DB, Twitter Bootstrap
 
 <hr>
-<br />
+
 # [FootPrints X3 :: Mobile Website](http://m.msu-footprints.org)  #
 The first ever mobile website of FootPrints. 
 <br />
@@ -58,7 +60,7 @@ The first ever mobile website of FootPrints.
 PHP, JQuery Mobile
 
 <hr>
-<br />
+
 # FootPrints X3 :: Android App - [Download](http://www.msu-footprints.org/2013/FootPrints.apk)  #
 The first ever Android app of FootPrints. the app and mobile site got featured in Local news paper. 
 <br />
@@ -69,7 +71,7 @@ The first ever Android app of FootPrints. the app and mobile site got featured i
 Android sdk, XML, Sqlite
 
 <hr>
-<br />
+
 # Abhaas #
 Abhaas is a faculty feedback management desktop application which can be used to assess the feedback received from students about faculties.
 
@@ -78,7 +80,7 @@ Abhaas is a faculty feedback management desktop application which can be used to
 java, swing, oracle DB
 
 <hr>
-<br />
+
 # News on Go :: Android app #
 This is a first ever android app i developed. the intension was more of learning than developing something useful. This is fully fuctional RSS Reader. this app was developed as part of academics in final year of diploma engineering.
 
@@ -89,18 +91,20 @@ This is a first ever android app i developed. the intension was more of learning
 Android sdk, XML, Sqlite
 
 <hr>
-<br />
+
 # waytoconnect :: Open Discussion Forum #
 This is an open discussion forum for my institute i developed in PHP and MySQL DB as part of academics in third year of my diploma engineering. 
 
 ![waytoconnect](images/work/home.png)
+<br />
+<br />
 ![waytoconnect](images/work/cats.png)
 
 # Technologies used#
 PHP, MySQL
 
 <hr>
-<br />
+
 # Blog.IT :: E-diary #
 
 ![Blog.IT](images/work/myofflineblog.png)
