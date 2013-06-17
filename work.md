@@ -12,36 +12,64 @@ Presently, i m part of [ Training and Placement cell](http://ftemsu-placements.o
 Here are some more details about the projects that I have worked on -
 
 <hr>
-
+<br />
 # [FootPrints X3 - Registration Module](http://www.msu-footprints.org) #
+I developed module for registering online for the different events of FootPrints. it supports automated generation of fee receipt in pdf format based on event selected by the participant. more than 10,000 participants registered for FootPrints X3 using this module. 
 
+I extensively took care to prevent SQL injections and XSS attacks.
+
+<br />
 ![FootPrints X3](images/work/form.png)
 # Technologies used#
 PHP, Wordpress, Ajax, MySQL, Twitter Bootstrap
 
 <hr>
-
+<br />
 # FootPrints Registration System  #
+This is a backend of the FootPrints. i designed this system from scratch using beautiful twitter bootstrap. i revised the system with PHP Data Objects and OOP features of PHP. 
+
+##few features:
+
+* Reports generation based on event
+	* by college
+	* by department
+	* by fees status etc.
+* Generating and Emailing fee receipt
+* Online elimination test results
+* Selection of Participants 
+* Excelsheet generation etc.
+
+this system successfully handled database of over 10,000 students.
+
 ![FootPrints X3](images/work/login_logout.png)
 ![FootPrints X3](images/work/FRS.png)
 # Technologies used#
 PHP (OOP), Ajax, MySQL DB, Twitter Bootstrap
 
 <hr>
+<br />
 # [FootPrints X3 :: Mobile Website](http://m.msu-footprints.org)  #
+The first ever mobile website of FootPrints. 
+<br />
+<br />
 ![FootPrints X3](images/work/fpx3-mobile.png)
 
 # Technologies used#
 PHP, JQuery Mobile
 
 <hr>
+<br />
 # FootPrints X3 :: Android App - [Download](http://www.msu-footprints.org/2013/FootPrints.apk)  #
+The first ever Android app of FootPrints. the app and mobile site got featured in Local news paper. 
+<br />
+<br />
 ![FootPrints X3 Android App](images/work/app.jpg)
 
 # Technologies used#
 Android sdk, XML, Sqlite
 
 <hr>
+<br />
 # Abhaas #
 Abhaas is a faculty feedback management desktop application which can be used to assess the feedback received from students about faculties.
 
@@ -50,8 +78,9 @@ Abhaas is a faculty feedback management desktop application which can be used to
 java, swing, oracle DB
 
 <hr>
+<br />
 # News on Go :: Android app #
-
+This is a first ever android app i developed. the intension was more of learning than developing something useful. This is fully fuctional RSS Reader. this app was developed as part of academics in final year of diploma engineering.
 
 ![News on Go](images/work/1.png)![News on Go](images/work/3.png)
 
@@ -60,8 +89,9 @@ java, swing, oracle DB
 Android sdk, XML, Sqlite
 
 <hr>
+<br />
 # waytoconnect :: Open Discussion Forum #
-
+This is an open discussion forum for my institute i developed in PHP and MySQL DB as part of academics in third year of my diploma engineering. 
 
 ![waytoconnect](images/work/home.png)
 ![waytoconnect](images/work/cats.png)
@@ -70,8 +100,8 @@ Android sdk, XML, Sqlite
 PHP, MySQL
 
 <hr>
+<br />
 # Blog.IT :: E-diary #
-
 
 ![Blog.IT](images/work/myofflineblog.png)
 

@@ -238,15 +238,14 @@ word-spacing:2px;
 	}
 	
 	
-.cols
-{
+.cols{
 	float:left;
 	/*margin-bottom:2em;*/
 }
 
-.row
-{
+.row{
 	width:inherit;
 	margin-bottom:0.7em;
-	
 }
+
+
