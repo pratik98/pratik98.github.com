@@ -41,6 +41,8 @@ extension.
 
 > put this file in "_post" folder.
 
+> git add  "yourpost"
+
 > git commit
 
 > git push 
