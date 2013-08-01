@@ -2,7 +2,7 @@
 layout: post
 title:  "Today I Learned....Series!"
 date:   2013-08-1 12:43:11
-categories: general technical
+categories: general,technical
 ---
 blogging always has been a passion for me. and i have tried to blog now and then. if you have followed this blog, in the begining i mentioned about writing more technical stuff here.but let me tell you one thing, technical blogging requires much more time. there is no point in writing half-baked articles. they serve no purpose. 
 
