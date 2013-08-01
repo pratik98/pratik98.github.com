@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Today I Learned....Series!"
+date:   2013-08-1 12:43:11
+categories: general technical
+---
+blogging always has been a passion for me. and i have tried to blog now and then. if you have followed this blog, in the begining i mentioned about writing more technical stuff here.but let me tell you one thing, technical blogging requires much more time. there is no point in writing half-baked articles. they serve no purpose. 
+
+lately, i ain't getting much time to blog. i feel bad. so i have decided to post the interesting things (Tech/Non Tech.) which i come across during daytime. 
+
+Starting from today.
+
+* [Progressive Enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement)
+* [nofollow](http://en.wikipedia.org/wiki/Nofollow) 
+
+
+
+Adios!
+
+[old blog]:  http://pratiktechi.blogspot.com
