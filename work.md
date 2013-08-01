@@ -7,7 +7,7 @@ I made my first website during 3rd year of my diploma engineering. it was plain 
 
 I have been fortunate to be a part of technical team of my college's annual techfest [FootPrints.](http://www.msu-footprints.org) I have worked on Event Registration system, Android app and mobile website for FootPrints.
 
-Presently, i m part of [ Training and Placement cell](http://ftemsu-placements.org/) of my college and maintaining placement portal.
+Presently, i m part of [ Training and Placement Team](http://ftemsu-placements.org/) of my college and maintaining placement portal.
  
 Here are some more details about the projects that I have worked on -
 
