@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Startup 2020 Baroda- An Experiance "
+title:  "take aways from Startup 2020 Baroda"
 date:   2013-08-6 11:43:11
 categories: general
 ---
-I recently attended 3 day startup event(possibly the first one at baroda). we had a team and an idea. we worked hard to tranformed it into business model and prototype throughout the event.
+I recently attended 3 day startup event(possibly the first one at baroda). we had a team and an idea. we worked hard to tranform it into business model and prototype throughout the event.
 we didn't win the competition but it was a nice learning experiance for me.:)
 
 so here is the fine points of what i learned from the event,
