@@ -56,10 +56,17 @@ ul.posts span {
 
 ul.posts a{
   color: #7B95D1;
-  
   font-size: 150%;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
 }
-
+ul.posts a:hover{
+  color: blue;
+  font-size: 155%;
+}
 
 
 /*****************************************************************************/
@@ -234,7 +241,26 @@ word-spacing:2px;
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
 	}
+	
+	.image-circle:hover {
+	margin-bottom: 2em;
+	width: 150px;
+	height: 150px;
+	border-radius:150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url("../images/DP.jpg") no-repeat;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	}
+	
 .cols{
 	float:left;
 	/*margin-bottom:2em;*/
