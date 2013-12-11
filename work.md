@@ -13,6 +13,18 @@ Here are some more details about the projects that I have worked on -
 
 <hr>
 
+# [NextBus - An SMS Based Application ] #
+This SMS application allows user to send SMS to pre specified cell number with "origin/destination" query from cell phone and user would receive SMS containing bus timings of next available bus.
+This is my 7th semester .NET project. The goal was to access internet from the low end device such as Nokia 1100. I developed SMS Gateway using Android and  Web Service using ASP.NET/C#. 
+
+The Android SMS Gateway Receives SMS and Sends SOAP request to Web Service. Web Service replies with SOAP Response. Android APP then extracts details from SOAP Response and send to user via SMS.
+
+<br />
+![FootPrints X3](images/work/smsapp.png)
+# Technologies used#
+Android SDK, Java, C#, SOAP, .NET Framework, MS SQL Server, Twitter Bootstrap
+<hr>
+
 # [FootPrints X3 - Registration Module](http://www.msu-footprints.org) #
 I developed module for registering online for the different events of FootPrints. it supports automated generation of fee receipt in pdf format based on event selected by the participant. more than 10,000 participants registered for FootPrints X3 using this module. 
 
