@@ -80,7 +80,21 @@ The first ever Android app of FootPrints. the app and mobile site got featured i
 ![FootPrints X3 Android App](images/work/app.jpg)
 
 # Technologies used#
-Android sdk, XML, Sqlite
+Android SDK, XML, Sqlite
+
+<hr>
+
+# FootPrints X2 :: LAN Based Coding Judge   #
+This is a simulation of "fastest fingers first" system we see in television show KBC. The System was used in final round of programming competition "Runtime" which was held in FootPrints X2. 
+<br />
+<br />
+![Login Page](images/work/login.png)
+<br />
+<br />
+![Answers Page](images/work/answers.png)
+
+# Technologies used#
+PHP, HTML5, CSS3, MySql
 
 <hr>
 

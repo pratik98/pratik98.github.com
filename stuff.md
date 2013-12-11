@@ -2,4 +2,7 @@
 layout: default
 title:  "Stuff - Pratik Agrawal"
 ---
-coming soon.
+# [Inspiration & Motivation](motivation.html) #
+# [Learning Resources](learn.html) #
+# [Photo Gallery](pics.html) #
+
