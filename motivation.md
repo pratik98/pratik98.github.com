@@ -2,7 +2,7 @@
 layout: default
 title:  "Motivation, Inspiration & Stuff | Pratik Agrawal"
 ---
-**__A Quote Compilation__** 
+**A Quote Compilation** 
 
 
 * Become a person that initiates. Others will follow.
