@@ -4,6 +4,7 @@ title:  "Motivation, Inspiration & Stuff | Pratik Agrawal"
 ---
 **A Quote Compilation** 
 
+![Happyness](images/inspire/happy.png)
 
 * Become a person that initiates. Others will follow.
 
@@ -22,4 +23,8 @@ you can and don't lose sight of your own dreams.
 * The purpose of education is to provide you the toolsets that enables you take the data 
 around you, make sense out of it and find out a way to create something productive out of 
 that.
+
+![Things](images/inspire/f.jpg)
+
+* will keep updating.
 
