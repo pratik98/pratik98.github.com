@@ -7,7 +7,7 @@ I made my first website during 3rd year of my diploma engineering. it was plain 
 
 I have been fortunate to be a part of technical team of my college's annual techfest [FootPrints.](http://www.msu-footprints.org) I have worked on Event Registration system, Android app and mobile website for FootPrints.
 
-Presently, i m part of [ Training and Placement Team](http://ftemsu-placements.org/) of my college and maintaining placement portal.
+I have also worked on [ Training and Placement portal](http://ftemsu-placements.org/) of my college.
  
 Here are some more details about the projects that I have worked on -
 
@@ -21,6 +21,7 @@ The Android SMS Gateway Receives SMS and Sends SOAP request to Web Service. Web 
 
 <br />
 ![FootPrints X3](images/work/smsapp.png)
+
 # Technologies used#
 Android SDK, Java, C#, SOAP, .NET Framework, MS SQL Server, Twitter Bootstrap
 <hr>
@@ -32,6 +33,7 @@ I extensively took care to prevent SQL injections and XSS attacks.
 
 <br />
 ![FootPrints X3](images/work/form.png)
+
 # Technologies used#
 PHP, Wordpress, Ajax, MySQL, Twitter Bootstrap
 
@@ -57,6 +59,7 @@ this system successfully handled database of over 10,000 students.
 <br />
 <br />
 ![FootPrints X3](images/work/FRS.png)
+
 # Technologies used#
 PHP (OOP), Ajax, MySQL DB, Twitter Bootstrap
 
@@ -102,6 +105,7 @@ PHP, HTML5, CSS3, MySql
 Abhaas is a faculty feedback management desktop application which can be used to assess the feedback received from students about faculties.
 
 ![abhaas v1](images/work/abhaas.png)
+
 # Technologies used#
 java, swing, oracle DB
 
@@ -110,7 +114,7 @@ java, swing, oracle DB
 # News on Go :: Android app #
 This is a first ever android app i developed. the intension was more of learning than developing something useful. This is fully fuctional RSS Reader. this app was developed as part of academics in final year of diploma engineering.
 
-![News on Go](images/work/1.png)![News on Go](images/work/3.png)
+![News on Go](images/work/3.png)
 
 
 # Technologies used#
