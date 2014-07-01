@@ -79,8 +79,8 @@ ul.posts a:hover{
   font-size: 115%;
   text-align: justify;
   width: 45em;
-  margin: 0em auto 2em;
-  /*line-height: 1.5em;*/
+  /*margin: 0em auto 2em;
+  line-height: 1.5em;*/
 }
 
 .site .header {
@@ -240,9 +240,9 @@ font-family:'Ubuntu',serif;
 	margin-bottom: 2em;
 	width: 150px;
 	height: 150px;
-	border-radius:20px;
-	-webkit-border-radius: 20px;
-	-moz-border-radius: 20px;
+	border-radius:150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
 	background: url("../images/DP.jpg") no-repeat;
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -262,9 +262,9 @@ font-family:'Ubuntu',serif;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 	background: url("../images/DP.jpg") no-repeat;
-	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	box-shadow: 0 0 20px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .8);
 	}
 	
 .cols{
