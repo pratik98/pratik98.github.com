@@ -3,11 +3,18 @@ layout: default
 title: "Work - Pratik Agrawal"
 ---
 
-I made my first website during 3rd year of my diploma engineering. it was plain **XHTML + CSS** website. since then i have enjoyed working on server-side web apps using **PHP, Ajax**; couple of mobile apps for **Android** and few mobile sites using **Jquery Mobile**. 
+I made my first website during 3rd year of my diploma engineering. 
+it was plain **XHTML + CSS** website. 
+since then i have enjoyed working on server-side web apps using 
+**PHP, Ajax**; couple of mobile apps for **Android** and few 
+mobile sites using **Jquery Mobile**. 
 
-I have been fortunate to be a part of technical team of my college's annual techfest [FootPrints.](http://www.msu-footprints.org) I have worked on Event Registration system, Android app and mobile website for FootPrints.
+I have been fortunate to be a part of technical team of my college's
+annual techfest [FootPrints.](http://www.msu-footprints.org) I have worked 
+on Event Registration system, Android app and mobile website for FootPrints.
 
-I have also worked on [ Training and Placement portal](http://ftemsu-placements.org/) of my college.
+I have also worked on [ Training and Placement portal](http://ftemsu-placements.org/)
+ of my college.
  
 Here are some more details about the projects that I have worked on -
 
