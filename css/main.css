@@ -27,8 +27,8 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #00a; text-decoration:none;}
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:hover   { color: #a0a; }
+
 
 table {
   font-size: inherit;
@@ -95,16 +95,14 @@ border-bottom: 2px solid #CCCACB;
 }
 
 .site .header h1.title {
- /* display: block;
-  margin-left: 3em;*/
   text-align:center;  
 }
 
 .site .header h1.title a {
 color:#000;
-font-family: 'Open Sans',serif;
+font-family: Alegreya,'Open Sans',serif;
 font-weight: 300;
-font-size: 4.2em;
+font-size: 2.2em;
 letter-spacing: 0px;
 text-align: center;
 cursor: default;
@@ -130,6 +128,7 @@ text-align: center;
   margin-right: 1em;
   margin-left: 0.3em;
   text-align: center;
+  font-family: "Open sans";
 }
 .icon-user{
 	background:url("../images/user.png") no-repeat;
@@ -156,9 +155,37 @@ text-align: center;
  word-spacing:2px;
  }
 .site .defstyle p img{
-text-align:center;
+width:100%;
+border-radius: 3px;
+box-shadow: 0 3px 6px rgba(0,0,0,0.9);
 } 
+@media screen and (orientation: landscape) {
+ .site .defstyle p  img { max-width: 80%; 
+ position:relative;
  
+ }
+ .site .defstyle p  img:empty
+{ 	
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -0%);
+	-moz-transform: translate(-50%, -0%);
+	-ms-transform: translate(-50%, -0%);
+	-o-transform: translate(-50%, -0%);
+	transform: translate(-50%, -0%);
+}
+ .site .header h1.title a {
+color:#000;
+font-family:Alegreya, 'Open Sans',serif;
+font-weight: 300;
+font-size: 4.2em;
+letter-spacing: 0px;
+text-align: center;
+cursor: default;
+text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.75);
+margin-bottom: 8px;
+}
+}
 .site .footer {
   font-size: 120%;
   color: #666;
@@ -275,10 +302,7 @@ background-position-y: -17px;
 	-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .8);
 	}
 	
-.cols{
-	/*float:left;
-	margin-bottom:2em;*/
-    }
+
 .row{
 	width:inherit;
 	margin-bottom:0.7em;
@@ -506,6 +530,7 @@ and (max-device-width : 480px) {
 
     img {
         max-width: 100% !important;
+		
     }
 
     @page {
@@ -524,13 +549,4 @@ and (max-device-width : 480px) {
         page-break-after: avoid;
     }
 }
-.defstyle
-{
 
-/*font-size:120%;
-text-align:center;*/
-}
-
-.defstyle p img{
- text-align:center;
-}

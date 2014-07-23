@@ -3,11 +3,13 @@ layout: default
 title:  "Pratik Agrawal"
 ---
 
-![me](images/web.jpg)
+![me](images/propic.jpg)
+
+
 
 Hi there, I'm Pratik.
   
-I code and watch movies. 
+I'm software Engineer. I like watching movies. My "Things i'm crazy for" list has food on #1 position.  
 
 I occasionally read (mostly non-fiction) and write(blog) too. 
 

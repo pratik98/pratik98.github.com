@@ -11,7 +11,7 @@ title:  "Motivation, Inspiration & Stuff | Pratik Agrawal"
 * Software development isn't abt knowing everything. It's abt knowing what u don't know & 
 learning what u need to learn to solve the problem.
 
-* I do not like the fact that they often form REALLY strong opinions on every little thing, and 
+* I do not like the fact that they(youth) often form REALLY strong opinions on every little thing, and 
 mostly have zero data or logic to back it up.
 
 * First do it, then do it right, then do it better.
