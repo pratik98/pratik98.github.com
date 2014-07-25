@@ -26,5 +26,5 @@ that.
 
 ![Things](images/inspire/f.jpg)
 
-* will keep updating.
+
 
