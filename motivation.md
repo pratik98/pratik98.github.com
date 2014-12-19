@@ -30,9 +30,55 @@ that.
 
 * Would Picasso paint if he knew exactly how the painting would be? All creativity is driven by uncertainty. As is life.
 
-* Two things define you- your patience when you have nothing, and your attitude when you have everything. - Anonymous
+* Two things define you- your patience when you have nothing, and your attitude when you have everything. ~ Anonymous
 
 * If you don't want to be replaced by a machine, don't try to act like one.
+
+* If weekend doesn't excite you, change your friends and if Monday doesn't motivate you, change your profession.
+
+* Kill them with success and bury them with a smile.
+
+* Our thoughts are most important. All that we are is the result of what we have thought. ~ Gautama Siddhartha
+
+* These who criticize you directly for your faults are your friends, not those who appear nice even when you're wrong. ~ Dezhung Rinponche
+
+* Worrying never changes the outcome and over thinking always makes things worse.
+
+* Death is not the biggest fear we have; our biggest fear is taking the risk to be alive and express what we really are. ~ Miguel Angel Ruiz
+
+* Instead of putting enormous effort into creating the virtual illusion that you’re a fantastic person, go out and actually be one.
+
+* Don’t make a permanent decision for your temporary emotion.
+
+* The moment you feel like you have to prove your worth to someone is the moment to absolutely and utterly walk away.
+
+* Three rules. Read hard books before easy books. Read banned books before bestsellers. Read books that changed the world.
+
+* A mind all logic is like a knife all blade. It makes the hand bleed that uses it. ~Rabindranath Tagore
+
+* Order of priorities for choosing what to do: 
+  1. Something you love
+
+* in the end, the only thing that matters is how much you laughed- and how loud! Rest is all crap!
+
+* life tip: when nothing goes right go to sleep
+
+* 	1. Live and let live. 
+	2. Know your limits.
+	3. Don't assume that people need help. 
+	4. Don't be an asshole. 
+	5. Don't be stupid. 
+	   Simple life.  
+
+* Assumption is the mother of all fuckups.
+
+* When you talk, you are repeating what you already know. But if you listen, you may learn something new.
+
+* Always give consideration to what your first instinct is telling you… more often than not, it’s right!
+
+* Software isn't valuable. Learning is valuable. Software is just a lossy encoding of learnings.
+
+* If you are the smartest person in the room, you are in the wrong room.
 
 ![Things](images/inspire/f.jpg)
 

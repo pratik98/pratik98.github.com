@@ -2,6 +2,7 @@
 layout: default
 title:  "Stuff - Pratik Agrawal"
 ---
+
 * **[Quotes (more or less)](motivation.html)** 
 
 * __[Learning Resources](learn.html)__
