@@ -2,6 +2,8 @@
 layout: default
 title: "Work - Pratik Agrawal"
 ---
+* This page is outdated. i haven't updated this page since ages.
+
 
 I made my first website during 3rd year of my diploma engineering. 
 it was plain **XHTML + CSS** website. 

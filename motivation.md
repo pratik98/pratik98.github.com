@@ -57,7 +57,7 @@ that.
 * A mind all logic is like a knife all blade. It makes the hand bleed that uses it. ~Rabindranath Tagore
 
 * Order of priorities for choosing what to do: 
-  1. Something you love
+  * Something you love
 
 * in the end, the only thing that matters is how much you laughed- and how loud! Rest is all crap!
 
