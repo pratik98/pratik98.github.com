@@ -80,6 +80,8 @@ that.
 
 * If you are the smartest person in the room, you are in the wrong room.
 
+* You can’t fly with the eagles if you sleep with the pigeons.
+
 * Start now. Start where you are. Start with fear. Start with pain. Start with doubt. Start with hands shaking. Start with voice trembling but start. Start and don’t stop. Start where you are, with what you have. Just … start.  —Ijeoma Umebinyuo 
 
 ![Things](images/inspire/f.jpg)
