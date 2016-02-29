@@ -5,7 +5,7 @@ date:   2016-02-12 11:56:11
 categories: general
 ---
 I recently came across this beautiful song by this awesome cappella group Penn Masala.
-I have been playing this song in loop for few days now. somehow i am able to related to the lyrics of this song.
+I have been playing this song in loop for few days now. somehow i am able to relate with the lyrics of this song.
 just loving it.
 
 Link: [Distant Places](https://www.youtube.com/watch?v=qDtAScZLx0U)
