@@ -7,5 +7,5 @@ title:  "Stuff - Pratik Agrawal"
 
 * __[Learning Resources](learn.html)__
 
-* **[Photo Gallery](pics.html)**
+* **[Photo Gallery](https://www.instagram.com/pratikgarg93/)**
 
