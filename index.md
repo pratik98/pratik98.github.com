@@ -6,7 +6,7 @@ title:  "Pratik Agrawal"
 
 Hi there, I'm Pratik.
   
-I'm software Engineer.   
+I'm a software Engineer.   
 
 I occasionally read (mostly non-fiction) and write(blog) too. 
 
