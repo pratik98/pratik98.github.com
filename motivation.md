@@ -74,6 +74,8 @@ that.
 
 * When you talk, you are repeating what you already know. But if you listen, you may learn something new.
 
+![Geeta](images/hindigeeta.jpg)
+
 * Always give consideration to what your first instinct is telling you… more often than not, it’s right!
 
 * Software isn't valuable. Learning is valuable. Software is just a lossy encoding of learnings.
