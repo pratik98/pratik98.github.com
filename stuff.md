@@ -9,3 +9,5 @@ title:  "Stuff - Pratik Agrawal"
 
 * **[Photo Gallery](pics.html)**
 
+* **[Musik](musik.html)**
+
