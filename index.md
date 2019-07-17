@@ -6,7 +6,7 @@ title:  "Pratik Agrawal"
 
 Hi there, I'm Pratik.
   
-I'm a software Engineer based out of Pune, India. 
+I'm a software engineer based in Pune, India. 
 
 I studied [Computer Science](http://www.msubaroda.ac.in) at Vadodara, India. I have a [Diploma](http://www.nirmauni.ac.in) in computer engineering.
 
