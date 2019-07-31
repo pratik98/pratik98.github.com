@@ -2,7 +2,7 @@
 layout: default
 title: "Work - Pratik Agrawal"
 ---
-** This page is outdated. i haven't updated this page since ages.**
+**This page is outdated. i haven't updated this page since ages**
 
 
 I made my first website during 3rd year of my diploma engineering. 
