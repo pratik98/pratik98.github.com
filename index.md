@@ -6,7 +6,7 @@ title:  "Pratik Agrawal"
 
 Hi there, I'm Pratik.
   
-I'm a software engineer based out of Berlin, Germany. 
+I'm a student (&software engineer) based out of Berlin, Germany. 
 
 I studied [Computer Science](http://www.msubaroda.ac.in) at Vadodara, India. I have a [Diploma](http://www.nirmauni.ac.in) in computer engineering.
 
