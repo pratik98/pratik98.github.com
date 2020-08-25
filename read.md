@@ -15,6 +15,9 @@ title:  "Reading - Pratik Agrawal"
 
 * **[A Shot At History](https://amzn.to/31wZb6l)**
 
+* **[Our Moon Has Blood Clots](https://www.amazon.in/Our-Moon-Has-Blood-Clots/dp/818400513X)**
+
+* **[Wings of Fire: An Autobiography of Abdul Kalam](https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461/)**
 
 
 
