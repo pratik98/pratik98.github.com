@@ -12,7 +12,7 @@ I studied [Computer Science](http://www.msubaroda.ac.in) at Vadodara, India. I h
 
 Currently, Struggling to maintain my side project [Data About India.](http://dataaboutindia.wordpress.com/)
 
-![me](images/web.jpg)
+![me](images/pa.jfif)
 
 
 
