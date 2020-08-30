@@ -3,11 +3,11 @@ layout: default
 title:  "Movies - Pratik Agrawal"
 ---
 
-** Movies, Documentaries  I love** 
+** Movies, Documentaries  I love ** 
 
 * **[Pather Panchali](https://www.imdb.com/title/tt0048473/)**
 
-* **[Pyaasa] (https://www.imdb.com/title/tt0050870/?ref_=nv_sr_srsg_0)**
+* **[Pyaasa](https://www.imdb.com/title/tt0050870/?ref_=nv_sr_srsg_0)**
 
 * **[Lakshya](https://www.imdb.com/title/tt0323013/?ref_=nv_sr_srsg_0)**
 
