@@ -3,7 +3,7 @@ layout: default
 title:  "Movies - Pratik Agrawal"
 ---
 
-** Movies, Documentaries  I love ** 
+**Movies, Documentaries  I love** 
 
 * **[Pather Panchali](https://www.imdb.com/title/tt0048473/)**
 
