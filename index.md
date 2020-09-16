@@ -16,7 +16,7 @@ Currently, Struggling to maintain my side project [Data About India.](http://dat
 
 
 
-The best way to contact me(is via email. (pratik4fp [at] gmail [dot] com) 
+The best way to contact me is via email. (pratik4fp [at] gmail [dot] com) 
 
 
 
