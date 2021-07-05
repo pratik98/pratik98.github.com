@@ -5,7 +5,7 @@ title:  "Photo Stream - Pratik Agrawal"
 
 **Capturing few moments, here and there!** 
 
-* **[Instagram](https://www.instagram.com/pratikgarg93)**
+* **[Unsplash](https://unsplash.com/@pratik98)**
 
 * **[Flickr](https://www.flickr.com/photos/145145104@N07/albums)**
 
