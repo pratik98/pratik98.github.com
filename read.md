@@ -19,6 +19,16 @@ title:  "Reading - Pratik Agrawal"
 
 * **[Wings of Fire: An Autobiography of Abdul Kalam](https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461/)**
 
+* **[India that is Bharat](https://www.goodreads.com/en/book/show/58508534-india-that-is-bharat)**
+
+* **[Germany: Memories of a Nation](https://www.goodreads.com/book/show/23113270-germany)**
+
+* **[Karmayogi: A Biography of E. Sreedharan](https://www.goodreads.com/book/show/28779670-karmayogi)**
+
+* **[I Too Had a Dream](https://www.goodreads.com/book/show/909269.I_Too_Had_a_Dream)**
+
+* **[Vikram Sarabhai](https://www.goodreads.com/book/show/2189595.Vikram_Sarabhai)**
+
 
 
 

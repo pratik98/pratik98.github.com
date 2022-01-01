@@ -6,7 +6,7 @@ title:  "Pratik Agrawal"
 
 Hi there, I'm Pratik.
   
-I'm a [Data Science](https://www.uni-potsdam.de/en/university-of-potsdam) MSc student (& software engineer) based out of Berlin/Potsdam, Germany. 
+I'm a [Data Science](https://www.uni-potsdam.de/en/university-of-potsdam) MSc student (& a software engineer) based out of Berlin/Potsdam, Germany. 
 
 I studied [Computer Science](http://www.msubaroda.ac.in) at Vadodara, India. I have a [Diploma](http://www.nirmauni.ac.in) in computer engineering.
 
