@@ -15,7 +15,7 @@ I developed framework for generating sankey plots and time-series animation.
 This Became a part of [Deutschland auf dem Weg zur Klimaneutralität 2045 – Szenarien und Pfade im Modellvergleich Report.](https://ariadneprojekt.de/publikation/deutschland-auf-dem-weg-zur-klimaneutralitat-2045-szenarienreport/)
 <br />
 
-![Sankey](images/portfolio/sankey_from_report.png)
+![Sankey](images/portfolio/sankey_from_report.PNG)
 
 <br />
 
@@ -52,7 +52,9 @@ Javascript, Python, Excel, Openshot Video Editor, React, R, Python
 # Visualy Weighted Density Plot #
 This Visualization is reprodction of *Burke, Hsiang, and Miguel (2015)*'s 
 Economic Impact of Climate Change on the world [plot](https://web.stanford.edu/~mburke/climate/map.php) in R for different Use Cases.
+
 <br />
+
 ![Sankey](images/portfolio/pessi_median.png)
 
 
@@ -64,10 +66,11 @@ R, Python, Plotly, matplotlib, ggplot
 This Side project is my humble effort to answer some very basic questions about India using data visualizations and statistics. I constantly look for data-sets and data sources related to India on web and try to come up with some insights and easy to understand visualizations. 
 
 All Visualizations are available on my [Data About India Blog.](https://dataaboutindia.wordpress.com/)
+
 <br />
+
 ![Sankey](images/portfolio/geo_india.png)
 
 
 # Technologies used #
 R, Python, Plotly, matplotlib, ggplot, Javascript
-<hr>
