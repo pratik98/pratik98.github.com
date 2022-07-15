@@ -29,7 +29,7 @@ R, Python, Plotly, matplotlib, ggplot
 
 
 ## Bar-chart Racing Animation  ##
-This is an ongoing visualization side project of mine where i collect, clean and visualize different datasets using barchar racing animation. Currently, exploring various datasets from India and Germany.
+This is an ongoing visualization side project of mine where i collect, clean and visualize different datasets using barchart racing animation. Currently, exploring various datasets from India and Germany.
 All Visualizations are available on [YouTube.](https://www.youtube.com/playlist?list=PLkGTRv6_dWh5tcKiznSyv1Hcaf69RFCgA)
 
 
@@ -82,7 +82,7 @@ R, Python, Plotly, matplotlib, ggplot, Javascript
 # Machine Learning Projects #
 
 ## Forest Fire Prediction ##
-This project was a part of Machine Learning course durig my MSc. 
+This project was a part of Machine Learning course during my MSc. 
 Predict wildfires based on weather data of the Fire-Weather-Index (FWI).
 
 ### Dataset: ###
