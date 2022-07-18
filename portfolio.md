@@ -2,6 +2,8 @@
 layout: default
 title: "Data Analytics & Visualization - Pratik Agrawal"
 ---
+**Visit my [Google Scholar](https://scholar.google.com/citations?user=SLCVY6EAAAAJ&hl=en) profile for more details about  published work in the areas of MOOCs and Applied Machine Learning.**
+
 **Visit [Academic Projects](/work.html) for my old Software development student projects.**
 
 
@@ -79,7 +81,7 @@ R, Python, Plotly, matplotlib, ggplot, Javascript
 
 <hr>
 
-# Machine Learning Projects #
+# Machine Learning Projects # 
 
 ## Forest Fire Prediction ##
 This project was a part of Machine Learning course during my MSc. 
