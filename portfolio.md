@@ -92,9 +92,9 @@ While the effect of established social media on stock markets has been thoroughl
 
 ### Paper: [AMCIS 2022](https://aisel.aisnet.org/amcis2022/sig_sc/sig_sc/8/)
 
+<hr>
 
 ## S&P 500 Index forecasting using WallStreetBets Data ##
-This project was a part of a Social Media research project during my MSc. 
 
 ### Abstract: ###
 Stock investors are increasingly using subcommunities on social media platforms such as Reddit to inform their investment decisions. With previous research mainly focusing on the impact of fundamental macroeconomic and financial indicators, the consequences of social media discussions on stock market dynamics remain puzzling. While herding behavior and market manipulation are alarming issues, it remains unclear to which extent Reddit discussions contribute to stock market dynamics. This study constitutes a first step toward understanding the impact of subcommunity discussions on stock market dynamics. Using a machine learning approach, we predict the Standard and Poor’s 500 index based on data from the subreddit r/wallstreetbets. Our findings show that Reddit data can be used to infer stock price movements in the S&P 500, and further illustrate that random forest models outperform other models when predicting the daily movement of the S&P 500 index closing prices.
