@@ -30,7 +30,7 @@ R, Python, Plotly, matplotlib, ggplot
 <hr>
 
 
-## Bar-chart Racing Animation  ##
+## Barchart Racing Animation  ##
 This is an ongoing visualization side project of mine where i collect, clean and visualize different datasets using barchart racing animation. Currently, exploring various datasets from India and Germany.
 All Visualizations are available on [YouTube.](https://www.youtube.com/playlist?list=PLkGTRv6_dWh5tcKiznSyv1Hcaf69RFCgA)
 
@@ -77,11 +77,33 @@ All Visualizations are available on my [Data About India Blog.](https://dataabou
 
 
 ### _Technologies used_ ###
-R, Python, Plotly, matplotlib, ggplot, Javascript
+XHTML, CSS, Javascript
 
 <hr>
 
 # Machine Learning Projects # 
+
+## WallStreetBets Beyond GameStop, YOLOs, and the Moon: The Unique Traits of Reddit’s Finance Communities ##
+
+
+### Abstract: ###
+While the effect of established social media on stock markets has been thoroughly investigated, the recent surge in retail investing and the emergence of different finance-related Reddit communities with unique new traits have led to new research questions. In this work, we aim to understand the linguistic and thematic characteristics and differences of the largest financial Reddit communities, r/WallStreetBets, r/stocks, and r/investing. Using different techniques for the analysis of linguistic features and topic modeling, we identify keywords and phrases that are most prominent in each community and determine each community’s thematic focus and risk affinity. An analysis of users that post on all of these communities confirm these findings, as they appear to adapt to the respective target audience when posting. The stock returns for each community prove consistent with their respective risk profile. Overall, we conclude that understanding these communities can help investors in making more informed investment decisions.
+
+
+### Paper: [AMCIS 2022](https://aisel.aisnet.org/amcis2022/sig_sc/sig_sc/8/)
+
+
+## S&P 500 Index forecasting using WallStreetBets Data ##
+This project was a part of a Social Media research project during my MSc. 
+
+### Abstract: ###
+Stock investors are increasingly using subcommunities on social media platforms such as Reddit to inform their investment decisions. With previous research mainly focusing on the impact of fundamental macroeconomic and financial indicators, the consequences of social media discussions on stock market dynamics remain puzzling. While herding behavior and market manipulation are alarming issues, it remains unclear to which extent Reddit discussions contribute to stock market dynamics. This study constitutes a first step toward understanding the impact of subcommunity discussions on stock market dynamics. Using a machine learning approach, we predict the Standard and Poor’s 500 index based on data from the subreddit r/wallstreetbets. Our findings show that Reddit data can be used to infer stock price movements in the S&P 500, and further illustrate that random forest models outperform other models when predicting the daily movement of the S&P 500 index closing prices.
+
+### Paper: [Preprint](https://github.com/pratik98/Reddit-Analysis/blob/main/Stocks%20to%20the%20Moon%20Prediction%20of%20Stock%20index%20using%20Wallstreetbets%20data.pdf)
+### Code: [GitHub](https://github.com/pratik98/Reddit-Analysis) ###
+
+
+<hr>
 
 ## Forest Fire Prediction ##
 This project was a part of Machine Learning course during my MSc. 
