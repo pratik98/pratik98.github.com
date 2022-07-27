@@ -91,7 +91,7 @@ While the effect of established social media on stock markets has been thoroughl
 
 
 ### Paper: [AMCIS 2022](https://aisel.aisnet.org/amcis2022/sig_sc/sig_sc/8/)
-
+### Code: [GitHub](https://github.com/pratik98/WSB-Data-Science-Internship) ###
 <hr>
 
 ## S&P 500 Index forecasting using WallStreetBets Data ##
