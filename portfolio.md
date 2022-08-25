@@ -7,7 +7,7 @@ title: "Data Analytics & Visualization - Pratik Agrawal"
 **Visit [Academic Projects](/work.html) for my old Software development student projects.**
 
 
-This page contains details about some selected data analysis and data visualization projects i have worked, both from my previous workplace ([PIK](https://www.pik-potsdam.de/en) - projects which are available in public domain) and personal projects.
+This page contains details about some selected data analysis and data visualization projects i have worked on, both from my previous workplace ([PIK](https://www.pik-potsdam.de/en) - projects which are available in public domain) and personal projects.
 
 <hr>
 
@@ -94,16 +94,6 @@ While the effect of established social media on stock markets has been thoroughl
 ### Code: [GitHub](https://github.com/pratik98/WSB-Data-Science-Internship) ###
 <hr>
 
-## S&P 500 Index forecasting using WallStreetBets Data ##
-
-### Abstract: ###
-Stock investors are increasingly using subcommunities on social media platforms such as Reddit to inform their investment decisions. With previous research mainly focusing on the impact of fundamental macroeconomic and financial indicators, the consequences of social media discussions on stock market dynamics remain puzzling. While herding behavior and market manipulation are alarming issues, it remains unclear to which extent Reddit discussions contribute to stock market dynamics. This study constitutes a first step toward understanding the impact of subcommunity discussions on stock market dynamics. Using a machine learning approach, we predict the Standard and Poor’s 500 index based on data from the subreddit r/wallstreetbets. Our findings show that Reddit data can be used to infer stock price movements in the S&P 500, and further illustrate that random forest models outperform other models when predicting the daily movement of the S&P 500 index closing prices.
-
-### Paper: [Preprint](https://github.com/pratik98/Reddit-Analysis/blob/main/Stocks%20to%20the%20Moon%20Prediction%20of%20Stock%20index%20using%20Wallstreetbets%20data.pdf)
-### Code: [GitHub](https://github.com/pratik98/Reddit-Analysis) ###
-
-
-<hr>
 
 ## Forest Fire Prediction ##
 This project was a part of Machine Learning course during my MSc. 
