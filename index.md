@@ -19,7 +19,9 @@ I studied [Computer Science](http://www.msubaroda.ac.in) at Vadodara, India. I h
 Currently, Struggling to maintain my side project [Data About India.](http://dataaboutindia.wordpress.com/)
 
 I have lived in : Ambaji, Karnavati (Ahmedabad), Vadodara, Gandhinagar, Mysuru, Bengaluru, Mumbai, Pune, Potsdam/Berlin.
-I have travelled to : USA, Poland, Netherlands, France, Belgium, Spain, Czech Republic, Sweden.
+
+I have travelled to : USA, Poland, Netherlands, France, Belgium, Spain, Czech Republic.
+
 
 ![me](images/pa.jpg)
 
