@@ -4,15 +4,25 @@ title: "Data Analytics & Visualization - Pratik Agrawal"
 ---
 **Visit my [Google Scholar](https://scholar.google.com/citations?user=SLCVY6EAAAAJ&hl=en) profile for more details about  published work in the areas of MOOCs and Applied Machine Learning.**
 
-**Visit [Academic Projects](/work.html) for my old Software development student projects.**
+<!-- **Visit [Academic Projects](/work.html) for my old Software development student projects.**
+([PIK](https://www.pik-potsdam.de/en) - -->
 
 
-This page contains details about some selected data analysis and data visualization projects i have worked on, both from my previous workplace ([PIK](https://www.pik-potsdam.de/en) - projects which are available in public domain) and personal projects.
+This page contains some selected data analysis and data visualization projects, both from my previous workplaces (projects that are available in public domain) and personal projects.
 
 <hr>
 
-# Data Analystics and Visualization Projects # 
+# Data Analytics and Visualization Projects # 
 
+## Dashboard for Federated Learning Experiments ##
+Dashboard to visualize and comparatively analyze results of various FL experiments.
+![stm1](images/portfolio/streamlit_1.png)
+
+![streamlit](images/portfolio/streamlit_2.png)
+
+### _Technologies used_ ###
+Python, stremlit, matplotlib, seaborn
+<hr>
 
 ## Sankey Diagrams for Electricity-Mix ##
 I developed framework for generating sankey plots and time-series animation.
