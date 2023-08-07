@@ -20,7 +20,7 @@ Currently, Struggling to maintain my side project [Data About India.](http://dat
 
 I have lived in : Ambaji, Karnavati (Ahmedabad), Vadodara, Gandhinagar, Mysuru, Bengaluru, Mumbai, Pune, Potsdam/Berlin.
 
-I have travelled to : USA, Poland, Netherlands, France, Belgium, Spain, Czech Republic.
+I have travelled to : USA, Poland, Netherlands, France, Belgium, Spain, Czech Republic, Italy, Hungary.
 
 
 ![me](images/pa.jpg)
