@@ -23,7 +23,7 @@ I have lived in : Ambaji, Karnavati (Ahmedabad), Vadodara, Gandhinagar, Mysuru, 
 I have travelled to : USA, Poland, Netherlands, France, Belgium, Spain, Czech Republic, Italy, Hungary.
 
 
-![me](images/pa.jpg)
+![me](images/pa_2022.png)
 
 
 
