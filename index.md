@@ -12,15 +12,15 @@ title:  "Pratik Agrawal"
 
 Hi there, I'm Pratik.
   
-I 'm ~~a [Data Science](https://www.uni-potsdam.de/en/university-of-potsdam) MSc student &~~ (a Software Engineer and aspiring Data Analyst / Data Scientist / ML Engineer) based out of Berlin, Germany. 
+I 'm ~~a [Data Science](https://www.uni-potsdam.de/en/university-of-potsdam) MSc student &~~ (a Software Engineer ~~and aspiring Data Analyst / Data Scientist / ML Engineer~~) based out of ~~Berlin, Germany~~ Hyderabad, India. 
 
-I studied [Computer Science](http://www.msubaroda.ac.in) at Vadodara, India. I have a [Diploma](http://www.nirmauni.ac.in) in computer engineering.
+I studied [Computer Science](http://www.msubaroda.ac.in) at Vadodara, India. I have a [Diploma](http://www.nirmauni.ac.in) in computer engineering. In 2022, I managed to get one more acadamic degree: [MS Data Science](https://www.uni-potsdam.de/en/university-of-potsdam).
 
 Currently, Struggling to maintain my side project [Data About India.](http://dataaboutindia.wordpress.com/)
 
-I have lived in : Ambaji, Karnavati (Ahmedabad), Vadodara, Gandhinagar, Mysuru, Bengaluru, Mumbai, Pune, Potsdam/Berlin.
+I have lived in : Ambaji, Karnavati (Ahmedabad), Vadodara, Gandhinagar, Mysuru, Bengaluru, Mumbai, Pune, Potsdam/Berlin, Hyderabad.
 
-I have travelled to : USA, Poland, Netherlands, France, Belgium, Spain, Czech Republic, Italy, Hungary.
+I have travelled to : USA, Poland, Netherlands, France, Belgium, Spain, Czech Republic, Italy, Vatican City, Hungary.
 
 
 ![me](images/pa_2022.png)
